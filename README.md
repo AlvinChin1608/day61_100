@@ -14,6 +14,7 @@ In this project, I learned how to integrate Bootstrap styling into Flask-WTF for
 - **Consistent Styling:** Provides a unified look and feel across the application, enhancing user experience.
 - **Simplified Form Rendering:** Using the render_form macro simplifies form rendering, reducing boilerplate code.
 
+![](https://github.com/AlvinChin1608/day61_100/blob/main/Screenshot%202024-07-28%20at%2020.57.26.png)
 ### Demo
 ![](https://github.com/AlvinChin1608/day61_100/blob/main/gif_demo/ScreenRecording2024-07-28at20.59.00-ezgif.com-video-to-gif-converter.gif)
 
